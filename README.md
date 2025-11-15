@@ -9,3 +9,7 @@ CIRCLE AREA
 
 TYPE CASTING
 <img width="1482" height="360" alt="Screenshot 2025-11-15 234448" src="https://github.com/user-attachments/assets/1d63698c-9575-43ae-9b04-b4b5eca23a56" />
+
+SWAP NUMBERS
+<img width="1506" height="355" alt="image" src="https://github.com/user-attachments/assets/cf1a27f4-2298-4d27-97f0-cc2db95a260e" />
+
