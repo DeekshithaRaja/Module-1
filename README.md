@@ -7,4 +7,4 @@ ABOUT ME
 CIRCLE AREA
 <img width="1503" height="329" alt="Image" src="https://github.com/user-attachments/assets/0a1dee11-187c-429d-8bc8-50e2e679ea85" />
 
-TYPE CASTING <img width="1505" height="375" alt="Image" src="https://github.com/user-attachments/assets/12c6b0d6-9535-4fd7-a83c-c7349f7fcc43" />
+TYPE CASTING
