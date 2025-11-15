@@ -25,4 +25,6 @@ EVEN ODD
 ARRAY SUM AVERAGE
 <img width="1507" height="437" alt="image" src="https://github.com/user-attachments/assets/73058e5f-0715-44e3-8897-13f43ee24210" />
 
+STUDENT DEMO
+
 
