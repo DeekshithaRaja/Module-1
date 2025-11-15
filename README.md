@@ -3,3 +3,6 @@ HELLO JAVA
 
 ABOUT ME
 <img width="1488" height="378" alt="Image" src="https://github.com/user-attachments/assets/b6b14880-044c-47b7-832d-0959cc666c4b" />
+
+CIRCLE AREA
+<img width="1503" height="329" alt="Image" src="https://github.com/user-attachments/assets/0a1dee11-187c-429d-8bc8-50e2e679ea85" />
