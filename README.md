@@ -13,3 +13,7 @@ TYPE CASTING
 SWAP NUMBERS
 <img width="1506" height="355" alt="image" src="https://github.com/user-attachments/assets/cf1a27f4-2298-4d27-97f0-cc2db95a260e" />
 
+EVEN ODD
+<img width="1508" height="470" alt="image" src="https://github.com/user-attachments/assets/7b99359f-995e-4d91-9dfd-3b40ded4330e" />
+
+
