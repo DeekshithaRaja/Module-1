@@ -8,3 +8,4 @@ CIRCLE AREA
 <img width="1503" height="329" alt="Image" src="https://github.com/user-attachments/assets/0a1dee11-187c-429d-8bc8-50e2e679ea85" />
 
 TYPE CASTING
+<img width="1482" height="360" alt="Screenshot 2025-11-15 234448" src="https://github.com/user-attachments/assets/1d63698c-9575-43ae-9b04-b4b5eca23a56" />
