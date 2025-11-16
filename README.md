@@ -17,7 +17,7 @@ EVEN ODD
 <img width="1508" height="470" alt="image" src="https://github.com/user-attachments/assets/7b99359f-995e-4d91-9dfd-3b40ded4330e" />
 
 LARGEST FIXED
-
+<img width="1773" height="638" alt="image" src="https://github.com/user-attachments/assets/6ba81a31-83cc-435d-b158-ea4ef352d9cd" />
 
 EVEN ODD
 <img width="1507" height="398" alt="image" src="https://github.com/user-attachments/assets/1caec06a-7e7e-48ec-848c-b00ea391bac7" />
